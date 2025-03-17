@@ -1,0 +1,21 @@
+Git command
+  17 ls
+  18 git init
+  19 git add .
+  20 git comment -m "scrpits"
+  21 git commit -m "scrpits"
+  22 git config --global user.email "ashok9302@gmail.com"
+  23 git config --global user.name "ashok"
+  24 git commit -am "scrpits comment"
+  25 git remote add origin https://github.com/ashokalp/Scripts.git
+  26 git remote -v
+=============================================================================    
+git remote -v
+   origin  https://github.com/ashokalp/Scripts.git (fetch)
+   origin  https://github.com/ashokalp/Scripts.git (push)
+========================================================================
+
+
+  27 git push origin master
+
+========================================================================================
